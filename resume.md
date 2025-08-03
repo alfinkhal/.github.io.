@@ -1,18 +1,15 @@
 # Muhammad Alfin Khalidi
-Mahasiswa Ilmu Komputer IPB
 
-*Asrama TPB IPB Dramaga*\
-*+1 (929) 323-6488*\
-*alfinkha@gmail.com*
 
-## Pendidikan
-### Institut Pertanian Bogor
-Aug 2017 - sekarang
+*Banda Aceh*\
+*+62 823 6350 6798*\
+*malfin2509@gmail.com*
+
+## Education
+### IPB University (Institut Pertanian Bogor)
+Aug 2017 - Apr 2022
 ### SMA Laboratorium Unsyiah
-Jul 2014 - Mei 2017
-## Hobi
-Bermain video games.
-## Cita-cita
-(salah satu)
+Jul 2014 - May 2017
+## Work
 - *Programmer*
 - *Consultant*
